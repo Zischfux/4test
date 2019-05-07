@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+
+msgctxt "#30001"
+msgid "Number of lines"
+msgstr "Anzahl Zeillen"
+
+msgctxt "#30002"
+msgid "Library Movies"
+msgstr "Video Verzeichnis"
+
+msgctxt "#30003"
+msgid "Library Episodes"
+msgstr "Episoden Verzeichnis"
+
+msgctxt "#30004"
+msgid "Library Music Videos"
+msgstr "Music Videos Verzeichnis"
+
+msgctxt "#30005"
+msgid "Group by"
+msgstr "Gruppe"
+
+msgctxt "#30006"
+msgid "Store list in a custom path"
+msgstr "Speichern eigener Pfad"
+
+msgctxt "#30007"
+msgid "List location"
+msgstr "Liste Ordner"
+
+msgctxt "#30008"
+msgid "Remove from list"
+msgstr "Von Liste löschen"
+
+msgctxt "#30009"
+msgid "Single list"
+msgstr "Eine Liste"
+
+msgctxt "#30010"
+msgid "Show Date"
+msgstr "Zeige Datum"
+
+msgctxt "#30011"
+msgid "Show Time"
+msgstr "Zeige Zeit"
+
+msgctxt "#30012"
+msgid "Keep history at StarMovies"
+msgstr "Behalte Verlauf"
+
+msgctxt "#30013"
+msgid "Enable debug"
+msgstr "Depuging ein"
+
+msgctxt "#30014"
+msgid "Show Addon History List"
+msgstr "Zeige Addon Verlauf"
+
+msgctxt "#30015"
+msgid "Delete Addon History List"
+msgstr "Lösche Addon Verlauf"
+
+msgctxt "#30016"
+msgid "*** There is no Addon History ***"
+msgstr "Es Gibt keinen Addon Verlauf"
+
+msgctxt "#30017"
+msgid "Source"
+msgstr "Quelle"
+
+msgctxt "#30018"
+msgid "Type"
+msgstr "Typ"
+
+msgctxt "#30019"
+msgid "Addon List (old format)"
+msgstr "Addon Liste (altes Format)"
+
+msgctxt "#30020"
+msgid "StarMovies user"
+msgstr "StarMovies User"
+
+msgctxt "#30021"
+msgid "StarMovies password"
+msgstr "StarMovies Passwort"
+
+msgctxt "#30022"
+msgid "Library Videos"
+msgstr "Verzeichnis Videos"
+
+msgctxt "#30023"
+msgid "Movies"
+msgstr "Movies"
+
+msgctxt "#30024"
+msgstr "TV"
+msgid "TV"
+
+msgctxt "#30025"
+msgid "Videos"
+msgstr "Videos"
+
+msgctxt "#30026"
+msgid "Number of lines on top from all sources and types"
+msgstr "Anzahl der Zeillen"
+
+msgctxt "#30027"
+msgid "General"
+msgstr "General"
+
+msgctxt "#30028"
+msgid "StarMovies"
+msgstr "StarMovies"
+
+msgctxt "#30029"
+msgid "Advanced"
+msgstr "Erweitert"
+
+msgctxt "#30030"
+msgid "New install. Start watching and it will display here."
+msgstr "Neu Installieren. Start um hier zu sehen."
+
+msgctxt "#30031"
+msgid "Play with "
+msgstr "Abspielen mit"
+
+msgctxt "#30032"
+msgid "Blacklist Addon"
+msgstr "Ausgeblendete Addons"
+
+msgctxt "#30033"
+msgid "Blacklist Folder"
+msgstr "Ausgeblendete Ordner"
+
+msgctxt "#30034"
+msgid "Blacklist Video"
+msgstr "Ausgeblendete Videos"
